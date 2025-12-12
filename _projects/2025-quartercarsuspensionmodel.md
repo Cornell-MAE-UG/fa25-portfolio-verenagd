@@ -3,7 +3,7 @@ layout: project
 title: Active Quarter Car Suspension System
 description: Class project
 technologies: [MATLAB]
-image: /assets/images/TW.png
+image: /assets/images/QuarterCar.jpg
 ---
 
 <p style="clear: both;"></p>
